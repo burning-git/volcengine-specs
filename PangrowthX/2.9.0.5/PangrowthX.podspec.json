@@ -29,9 +29,6 @@
                 ],
                 "PGXToolbox": [
                     "2.9.0.5"
-                ],
-                "Ads-CN-Beta/BUAdSDK": [
-                    ">= 5.8.0.7"
                 ]
             }
         },
