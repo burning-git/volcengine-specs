@@ -53,6 +53,6 @@ functionality and provides a clean API interface.
 #  s.libraries = 'resolv', 'c++', 'z', 'sqlite3', 'bz2', 'xml2', 'iconv', 'c++abi'
 #  
   # 依赖 - 需要在 Podfile 中添加 source 'https://github.com/burning-git/volcengine-specs.git'
-  s.dependency 'PangrowthX/shortplay', '2.9.0.0'
+  s.dependency 'PangrowthX/shortplay-beta', '2.9.0.0'
   s.dependency 'TTSDKFramework/Player-SR', '1.42.3.4-premium'
 end
